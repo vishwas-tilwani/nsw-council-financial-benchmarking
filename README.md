@@ -1,8 +1,6 @@
-# 🏛️ NSW Local Government Financial Benchmarking
-
-> **Comparative P&L analysis of 6 Greater Sydney councils (FY24 vs FY25) —
-> benchmarking revenue, expenditure, operating results, and sustainability
-> metrics to identify financial performance patterns across local government.**
+### 🏛️ [NSW Local Government Financial Benchmarking](https://github.com/vishwas-tilwani/nsw-council-financial-benchmarking)
+Comparative P&L analysis of 6 Sydney councils (FY24 vs FY25) — benchmarking revenue,
+expenditure and budget variance to identify financial performance patterns across local government.
 
 ---
 
