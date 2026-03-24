@@ -121,10 +121,10 @@ A single cross-council benchmarking view showing:
 ---
 
 ## 📁 Files in This Repository
-
+[![View on Google Sheets](https://img.shields.io/badge/View%20Interactive%20Model-Google%20Sheets-green?style=for-the-badge&logo=googlesheets)](YOUR_GOOGLE_SHEETS_LINK)
 | File | Description |
 |------|-------------|
-| `LGNSW_Financial_Model.xlsx` | Full Excel model: individual dashboards + comparative KPI benchmarking |
+| [`📥 Download Financial Model`](LGNSW-Council-Financial-Model.xlsx) | Full Excel model: individual dashboards + comparative KPI benchmarking |
 
 ---
 
